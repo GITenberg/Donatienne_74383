@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '57154'
     url: http://www.gutenberg.org/2009/agents/57154
     wikipedia: https://fi.wikipedia.org/wiki/Santeri_Rissanen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bazin, René
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ren%C3%A9_Bazin
     - https://fr.wikipedia.org/wiki/Ren%C3%A9_Bazin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74383#Donatienne
 gutenberg_issued: '2024-09-06'
 gutenberg_type: Text
 identifiers:
